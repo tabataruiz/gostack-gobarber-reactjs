@@ -10,9 +10,7 @@ import Button from '../../components/Button';
 import { Container, Content, Background } from './styles';
 
 const SignUp: React.FC = () => {
-  // eslint-disable-next-line
   function handleSubmit(data: object): void {
-    // eslint-disable-next-line
     console.log(data);
   }
 

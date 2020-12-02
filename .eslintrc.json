@@ -29,6 +29,7 @@
     "prettier"
   ],
   "rules": {
+    "no-console": "off",
     "@typescript-eslint/ban-types": "off",
     "camelcase": "off",
     "import/no-unresolved": [
